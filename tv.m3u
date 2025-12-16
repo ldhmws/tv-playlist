@@ -1,0 +1,85 @@
+#EXTM3U
+
+########## TVB ##########
+
+#EXTINF:-1 group-title="TVB",TVB 明珠
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+http://xxx
+http://xxx
+http://xxx
+
+#EXTINF:-1 group-title="TVB",TVB 星河
+http://php.jdshipin.com/smt.php?id=Xinhe
+http://xxx
+http://xxx
+http://xxx
+
+#EXTINF:-1 group-title="TVB",TVB1
+https://6.cdn.loc.cc/163189.php?id=tvb1
+http://xxx
+http://xxx
+http://xxx
+
+#EXTINF:-1 group-title="TVB",TVB Plus
+https://cdn6.101.qzz.io/163189/tvbp
+http://xxx
+http://xxx
+http://xxx
+
+#EXTINF:-1 group-title="TVB",TVB 翡翠台
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+http://xxx
+http://xxx
+http://xxx
+
+#EXTINF:-1 group-title="TVB",TVB 无线新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+http://xxx
+http://xxx
+http://xxx
+
+#EXTINF:-1 group-title="TVB",TVB 娱乐新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+http://xxx
+http://xxx
+http://xxx
+
+#EXTINF:-1 group-title="TVB",TVB J1 翡翠综合台
+https://6.cdn.loc.cc/163189.php?id=j1
+http://xxx
+http://xxx
+http://xxx
+
+########## 凤凰 ##########
+
+#EXTINF:-1 group-title="凤凰",凤凰卫视
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+http://xxx
+http://xxx
+http://xxx
+
+#EXTINF:-1 group-title="凤凰",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+http://xxx
+http://xxx
+http://xxx
+
+#EXTINF:-1 group-title="凤凰",凤凰香港台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+http://xxx
+http://xxx
+http://xxx
+
+########## Viu ##########
+
+#EXTINF:-1 group-title="Viu",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+http://xxx
+http://xxx
+http://xxx
+
+#EXTINF:-1 group-title="Viu",ViuTV 6
+http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+http://xxx
+http://xxx
+http://xxx
