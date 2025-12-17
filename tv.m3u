@@ -16,7 +16,7 @@ http://xxx
 
 ########## TVB ##########
 
-#EXTINF:-1 group-title="TVB",TVB 星河
+#EXTINF:-1 group-title="TVB",TVB 星河台
 http://php.jdshipin.com/smt.php?id=Xinhe
 http://xxx
 http://xxx
@@ -40,46 +40,119 @@ http://xxx
 http://xxx
 http://xxx
 
-#EXTINF:-1 group-title="TVB",TVB 无线新闻台
+#EXTINF:-1 group-title="TVB",TVB 無線新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 http://xxx
 http://xxx
 http://xxx
 
-#EXTINF:-1 group-title="TVB",TVB 娱乐新闻台
+#EXTINF:-1 group-title="TVB",TVB 娛樂新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 http://xxx
 http://xxx
 http://xxx
 
-#EXTINF:-1 group-title="TVB",TVB J1 翡翠综合台
+#EXTINF:-1 group-title="TVB",TVB J1 翡翠綜合台
 https://6.cdn.loc.cc/163189.php?id=j1
 http://xxx
 http://xxx
 http://xxx
 
-#EXTINF:-1 group-title="TVB",TVB 明珠
+#EXTINF:-1 group-title="TVB",TVB 明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 http://xxx
 http://xxx
 http://xxx
 
-########## 凤凰 ##########
+########## 鳳凰 ##########
 
-#EXTINF:-1 group-title="凤凰",凤凰卫视
+#EXTINF:-1 group-title="鳳凰",鳳凰衛視台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 http://xxx
 http://xxx
 http://xxx
 
-#EXTINF:-1 group-title="凤凰",凤凰资讯
+#EXTINF:-1 group-title="鳳凰",鳳凰資訊台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 http://xxx
 http://xxx
 http://xxx
 
-#EXTINF:-1 group-title="凤凰",凤凰香港台
+#EXTINF:-1 group-title="鳳凰",鳳凰香港台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 http://xxx
 http://xxx
 http://xxx
+
+########## 香港有線 ##########
+
+#EXTINF:-1 group-title="香港有線",香港有線新聞台
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u
+http://xxx
+http://xxx
+http://xxx
+
+########## Now ##########
+
+#EXTINF:-1 group-title="Now",Now 財經台
+http://hls.168.us.kg/u/333/master.m3u8
+http://xxx
+http://xxx
+http://xxx
+
+#EXTINF:-1 group-title="Now",Now 新聞台
+http://hls.168.us.kg/u/332/master.m3u8
+http://xxx
+http://xxx
+http://xxx
+
+#EXTINF:-1 group-title="Now",Now 直播台
+http://hls.168.us.kg/u/331/master.m3u8
+http://xxx
+http://xxx
+http://xxx
+
+########## HOY ##########
+
+#EXTINF:-1 group-title="HOY",HOY 77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+http://xxx
+http://xxx
+http://xxx
+
+#EXTINF:-1 group-title="HOY",HOY 資訊台
+http://api.kkitv.itv888.vip:8080/streams/o6fp2zqodp/index.m3u8
+http://xxx
+http://xxx
+http://xxx
+
+########## 港台電視 ##########
+
+#EXTINF:-1 group-title="港台電視",港台電視 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+http://xxx
+http://xxx
+http://xxx
+
+#EXTINF:-1 group-title="港台電視",港台電視 32
+http://beishan008.asuscomm.com:8892/bysid/32.m3u8
+http://xxx
+http://xxx
+http://xxx
+
+########## 澳視 ##########
+
+#EXTINF:-1 group-title="澳視",澳視澳門
+http://php.jdshipin.com/TVOD/iptv.php?id=asam
+http://xxx
+http://xxx
+http://xxx
+
+
+
+
+
+
+
+
+
