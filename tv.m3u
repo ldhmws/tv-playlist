@@ -122,11 +122,24 @@ http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 group-title="影視",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
+########## 台灣 ##########
 
+#EXTINF:-1 group-title="台灣",astro Aec
+http://php.jdshipin.com/smt.php?id=AEC
 
+#EXTINF:-1 group-title="台灣",astro Aod
+http://php.jdshipin.com/smt.php?id=Aodhd
 
+#EXTINF:-1 group-title="台灣",astro欢喜台
+http://php.jdshipin.com/smt.php?id=Huahee
 
+#EXTINF:-1 group-title="台灣",astro全家
+http://php.jdshipin.com/smt.php?id=Quanjia
 
+########## 網絡 ##########
+
+#EXTINF:-1 group-title="網絡",爱奇艺
+http://php.jdshipin.com/smt.php?id=Qiyi
 
 
 
