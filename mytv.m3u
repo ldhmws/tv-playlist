@@ -155,7 +155,7 @@ http://php.jdshipin.com/smt.php?id=Quanjia
 http://php.jdshipin.com/smt.php?id=Qiyi
 
 
-########## China Mainland ##########
+########## 中國內地 ##########
 
 #EXTINF:-1 group-title="Live TV",CCTV-1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -282,203 +282,451 @@ https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 
 ########## 日本 ##########
 
-#EXTINF:-1 tvg-id="NHK_G_1" tvg-name="NHK G" tvg-logo="" group-title="日本,综合",NHK G
+#EXTINF:-1 tvg-id="NHK_G_1" tvg-name="NHK G" tvg-logo="" group-title="Live TV",NHK G
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=4
 
-#EXTINF:-1 tvg-id="NHK_E_1" tvg-name="NHK E" tvg-logo="" group-title="日本,教育",NHK E
+#EXTINF:-1 tvg-id="NHK_E_1" tvg-name="NHK E" tvg-logo="" group-title="Live TV",NHK E
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=4
 
-#EXTINF:-1 tvg-id="Nippon_TV_1" tvg-name="日本テレビ" tvg-logo="" group-title="日本,综合",日本テレビ
+#EXTINF:-1 tvg-id="Nippon_TV_1" tvg-name="日本テレビ" tvg-logo="" group-title="Live TV",日本テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=4
 
-#EXTINF:-1 tvg-id="TBS_1" tvg-name="TBS" tvg-logo="" group-title="日本,综合",TBS
+#EXTINF:-1 tvg-id="TBS_1" tvg-name="TBS" tvg-logo="" group-title="Live TV",TBS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=4
 
-#EXTINF:-1 tvg-id="Fuji_TV_1" tvg-name="フジテレビ" tvg-logo="" group-title="日本,综合",フジテレビ
+#EXTINF:-1 tvg-id="Fuji_TV_1" tvg-name="フジテレビ" tvg-logo="" group-title="Live TV",フジテレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=4
 
-#EXTINF:-1 tvg-id="TV_Asahi_1" tvg-name="テレビ朝日" tvg-logo="" group-title="日本,综合",テレビ朝日
+#EXTINF:-1 tvg-id="TV_Asahi_1" tvg-name="テレビ朝日" tvg-logo="" group-title="Live TV",テレビ朝日
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=4
 
-#EXTINF:-1 tvg-id="TV_Tokyo_1" tvg-name="テレビ東京" tvg-logo="" group-title="日本,综合",テレビ東京
+#EXTINF:-1 tvg-id="TV_Tokyo_1" tvg-name="テレビ東京" tvg-logo="" group-title="Live TV",テレビ東京
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=4
 
-#EXTINF:-1 tvg-id="Tokyo_MX_1" tvg-name="TOKYO MX" tvg-logo="" group-title="日本,综合",TOKYO MX
+#EXTINF:-1 tvg-id="Tokyo_MX_1" tvg-name="TOKYO MX" tvg-logo="" group-title="Live TV",TOKYO MX
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=4
 
-#EXTINF:-1 tvg-id="MBS_1" tvg-name="MBS毎日放送" tvg-logo="" group-title="日本,关西",MBS毎日放送
+#EXTINF:-1 tvg-id="MBS_1" tvg-name="MBS毎日放送" tvg-logo="" group-title="Live TV",MBS毎日放送
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=4
 
-#EXTINF:-1 tvg-id="ABC_1" tvg-name="ABCテレビ" tvg-logo="" group-title="日本,关西",ABCテレビ
+#EXTINF:-1 tvg-id="ABC_1" tvg-name="ABCテレビ" tvg-logo="" group-title="Live TV",ABCテレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=4
 
-#EXTINF:-1 tvg-id="Kansai_TV_1" tvg-name="関西テレビ" tvg-logo="" group-title="日本,关西",関西テレビ
+#EXTINF:-1 tvg-id="Kansai_TV_1" tvg-name="関西テレビ" tvg-logo="" group-title="Live TV",関西テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=4
 
-#EXTINF:-1 tvg-id="YTV_1" tvg-name="読売テレビ" tvg-logo="" group-title="日本,关西",読売テレビ
+#EXTINF:-1 tvg-id="YTV_1" tvg-name="読売テレビ" tvg-logo="" group-title="Live TV",読売テレビ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=4
 
-#EXTINF:-1 tvg-id="TV_Osaka_1" tvg-name="テレビ大阪" tvg-logo="" group-title="日本,关西",テレビ大阪
+#EXTINF:-1 tvg-id="TV_Osaka_1" tvg-name="テレビ大阪" tvg-logo="" group-title="Live TV",テレビ大阪
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=4
 
-#EXTINF:-1 tvg-id="NHK_KANSAI_1" tvg-name="NHK关西" tvg-logo="" group-title="日本,关西",NHK关西
+#EXTINF:-1 tvg-id="NHK_KANSAI_1" tvg-name="NHK关西" tvg-logo="" group-title="Live TV",NHK关西
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=4
 
-#EXTINF:-1 tvg-id="SUN_TV_1" tvg-name="サンテレビSUN" tvg-logo="" group-title="日本,关西",サンテレビSUN
+#EXTINF:-1 tvg-id="SUN_TV_1" tvg-name="サンテレビSUN" tvg-logo="" group-title="Live TV",サンテレビSUN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=4
 
-#EXTINF:-1 tvg-id="NHK_BS_1" tvg-name="NHK BS" tvg-logo="" group-title="日本,BS",NHK BS
+#EXTINF:-1 tvg-id="NHK_BS_1" tvg-name="NHK BS" tvg-logo="" group-title="Live TV",NHK BS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=4
 
-#EXTINF:-1 tvg-id="BS_Nippon_1" tvg-name="BS日テレ" tvg-logo="" group-title="日本,BS",BS日テレ
+#EXTINF:-1 tvg-id="BS_Nippon_1" tvg-name="BS日テレ" tvg-logo="" group-title="Live TV",BS日テレ
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=4
 
-#EXTINF:-1 tvg-id="BS_Asahi_1" tvg-name="BS朝日" tvg-logo="" group-title="日本,BS",BS朝日
+#EXTINF:-1 tvg-id="BS_Asahi_1" tvg-name="BS朝日" tvg-logo="" group-title="Live TV",BS朝日
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=4
 
-#EXTINF:-1 tvg-id="BS_4" tvg-name="BS 4" tvg-logo="" group-title="日本,BS",BS 4
+#EXTINF:-1 tvg-id="BS_4" tvg-name="BS 4" tvg-logo="" group-title="Live TV",BS 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=4
 
-#EXTINF:-1 tvg-id="BS_5" tvg-name="BS 5" tvg-logo="" group-title="日本,BS",BS 5
+#EXTINF:-1 tvg-id="BS_5" tvg-name="BS 5" tvg-logo="" group-title="Live TV",BS 5
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=4
 
-#EXTINF:-1 tvg-id="BS_6" tvg-name="BS 6" tvg-logo="" group-title="日本,BS",BS 6
+#EXTINF:-1 tvg-id="BS_6" tvg-name="BS 6" tvg-logo="" group-title="Live TV",BS 6
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=4
 
-#EXTINF:-1 tvg-id="WOWOW_1" tvg-name="WOWOW" tvg-logo="" group-title="日本,BS,付费",WOWOW
+#EXTINF:-1 tvg-id="WOWOW_1" tvg-name="WOWOW" tvg-logo="" group-title="Live TV",WOWOW
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=4
 
-#EXTINF:-1 tvg-id="Star_1" tvg-name="Star Channel" tvg-logo="" group-title="日本,BS,电影",Star Channel
+#EXTINF:-1 tvg-id="Star_1" tvg-name="Star Channel" tvg-logo="" group-title="Live TV",Star Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=4
 
-#EXTINF:-1 tvg-id="GREEN_1" tvg-name="GREEN Channel" tvg-logo="" group-title="日本,BS,体育",GREEN Channel
+#EXTINF:-1 tvg-id="GREEN_1" tvg-name="GREEN Channel" tvg-logo="" group-title="Live TV",GREEN Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=4
 
-#EXTINF:-1 tvg-id="BS_15" tvg-name="BS 15" tvg-logo="" group-title="日本,BS",BS 15
+#EXTINF:-1 tvg-id="BS_15" tvg-name="BS 15" tvg-logo="" group-title="Live TV",BS 15
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=4
 
-#EXTINF:-1 tvg-id="J_SPORTS_1" tvg-name="J SPORTS 1" tvg-logo="" group-title="日本,BS,体育",J SPORTS 1
+#EXTINF:-1 tvg-id="J_SPORTS_1" tvg-name="J SPORTS 1" tvg-logo="" group-title="Live TV",J SPORTS 1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=4
 
-#EXTINF:-1 tvg-id="J_SPORTS_2" tvg-name="J SPORTS 2" tvg-logo="" group-title="日本,BS,体育",J SPORTS 2
+#EXTINF:-1 tvg-id="J_SPORTS_2" tvg-name="J SPORTS 2" tvg-logo="" group-title="Live TV",J SPORTS 2
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=4
 
-#EXTINF:-1 tvg-id="J_SPORTS_3" tvg-name="J SPORTS 3" tvg-logo="" group-title="日本,BS,体育",J SPORTS 3
+#EXTINF:-1 tvg-id="J_SPORTS_3" tvg-name="J SPORTS 3" tvg-logo="" group-title="Live TV",J SPORTS 3
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=4
 
-#EXTINF:-1 tvg-id="J_SPORTS_4" tvg-name="J SPORTS 4" tvg-logo="" group-title="日本,BS,体育",J SPORTS 4
+#EXTINF:-1 tvg-id="J_SPORTS_4" tvg-name="J SPORTS 4" tvg-logo="" group-title="Live TV",J SPORTS 4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=4
 
-#EXTINF:-1 tvg-id="Nihon_Eiga_1" tvg-name="日本映画専門チャンネル" tvg-logo="" group-title="日本,BS,电影",日本映画専門チャンネル
+#EXTINF:-1 tvg-id="Nihon_Eiga_1" tvg-name="日本映画専門チャンネル" tvg-logo="" group-title="Live TV",日本映画専門チャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=4
 
-#EXTINF:-1 tvg-id="Disney_1" tvg-name="Disney Channel" tvg-logo="" group-title="日本,BS,儿童",Disney Channel
+#EXTINF:-1 tvg-id="Disney_1" tvg-name="Disney Channel" tvg-logo="" group-title="Live TV",Disney Channel
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=4
 
-#EXTINF:-1 tvg-id="Fishing_Vision_1" tvg-name="BS釣りビジョン" tvg-logo="" group-title="日本,BS,娱乐",BS釣りビジョン
+#EXTINF:-1 tvg-id="Fishing_Vision_1" tvg-name="BS釣りビジョン" tvg-logo="" group-title="Live TV",BS釣りビジョン
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=4
 
-#EXTINF:-1 tvg-id="Space_Shower_1" tvg-name="スペースシャワーTV/SPACE" tvg-logo="" group-title="日本,BS,音乐",スペースシャワーTV/SPACE
+#EXTINF:-1 tvg-id="Space_Shower_1" tvg-name="スペースシャワーTV/SPACE" tvg-logo="" group-title="Live TV",スペースシャワーTV/SPACE
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=4
 
-#EXTINF:-1 tvg-id="BS_31" tvg-name="BS 31" tvg-logo="" group-title="日本,BS",BS 31
+#EXTINF:-1 tvg-id="BS_31" tvg-name="BS 31" tvg-logo="" group-title="Live TV",BS 31
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=4
 
-#EXTINF:-1 tvg-id="Sky_A_1" tvg-name="スカイ・A" tvg-logo="" group-title="日本,CS,体育",スカイ・A
+#EXTINF:-1 tvg-id="Sky_A_1" tvg-name="スカイ・A" tvg-logo="" group-title="Live TV",スカイ・A
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=4
 
-#EXTINF:-1 tvg-id="Nittele_G_Plus_1" tvg-name="日テレジータス" tvg-logo="" group-title="日本,CS,体育",日テレジータス
+#EXTINF:-1 tvg-id="Nittele_G_Plus_1" tvg-name="日テレジータス" tvg-logo="" group-title="Live TV",日テレジータス
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=4
 
-#EXTINF:-1 tvg-id="Golf_Network_1" tvg-name="ゴルフネットワーク/GOLF" tvg-logo="" group-title="日本,CS,体育",ゴルフネットワーク/GOLF
+#EXTINF:-1 tvg-id="Golf_Network_1" tvg-name="ゴルフネットワーク/GOLF" tvg-logo="" group-title="Live TV",ゴルフネットワーク/GOLF
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=4
 
-#EXTINF:-1 tvg-id="Jidaigeki_1" tvg-name="時代劇専門チャンネル" tvg-logo="" group-title="日本,CS,剧集",時代劇専門チャンネル
+#EXTINF:-1 tvg-id="Jidaigeki_1" tvg-name="時代劇専門チャンネル" tvg-logo="" group-title="Live TV",時代劇専門チャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=4
 
-#EXTINF:-1 tvg-id="Home_Drama_1" tvg-name="ホームドラマチャンネル" tvg-logo="" group-title="日本,CS,剧集",ホームドラマチャンネル
+#EXTINF:-1 tvg-id="Home_Drama_1" tvg-name="ホームドラマチャンネル" tvg-logo="" group-title="Live TV",ホームドラマチャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=4
 
-#EXTINF:-1 tvg-id="Music_Japan_1" tvg-name="ミュージック・ジャパンTV/MUSIC" tvg-logo="" group-title="日本,CS,音乐",ミュージック・ジャパンTV/MUSIC
+#EXTINF:-1 tvg-id="Music_Japan_1" tvg-name="ミュージック・ジャパンTV/MUSIC" tvg-logo="" group-title="Live TV",ミュージック・ジャパンTV/MUSIC
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 
-#EXTINF:-1 tvg-id="KIDS_1" tvg-name="KIDS" tvg-logo="" group-title="日本,CS,儿童",KIDS
+#EXTINF:-1 tvg-id="KIDS_1" tvg-name="KIDS" tvg-logo="" group-title="Live TV",KIDS
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=4
 
-#EXTINF:-1 tvg-id="Discovery_1" tvg-name="Discovery" tvg-logo="" group-title="日本,CS,纪录",Discovery
+#EXTINF:-1 tvg-id="Discovery_1" tvg-name="Discovery" tvg-logo="" group-title="Live TV",Discovery
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=4
 
-#EXTINF:-1 tvg-id="HISTORY_1" tvg-name="HISTORY" tvg-logo="" group-title="日本,CS,纪录",HISTORY
+#EXTINF:-1 tvg-id="HISTORY_1" tvg-name="HISTORY" tvg-logo="" group-title="Live TV",HISTORY
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=4
 
-#EXTINF:-1 tvg-id="National_Geographic_1" tvg-name="ナショナル ジオグラフィック" tvg-logo="" group-title="日本,CS,纪录",ナショナル ジオグラフィック
+#EXTINF:-1 tvg-id="National_Geographic_1" tvg-name="ナショナル ジオグラフィック" tvg-logo="" group-title="Live TV",ナショナル ジオグラフィック
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=4
 
-#EXTINF:-1 tvg-id="TBS_CS_1" tvg-name="TBS チャンネル" tvg-logo="" group-title="日本,CS,综合",TBS チャンネル
+#EXTINF:-1 tvg-id="TBS_CS_1" tvg-name="TBS チャンネル" tvg-logo="" group-title="Live TV",TBS チャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=4
 
-#EXTINF:-1 tvg-id="Travel_Channel_1" tvg-name="旅チャンネル" tvg-logo="" group-title="日本,CS,旅游",旅チャンネル
+#EXTINF:-1 tvg-id="Travel_Channel_1" tvg-name="旅チャンネル" tvg-logo="" group-title="Live TV",旅チャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=4
 
-#EXTINF:-1 tvg-id="Kayo_Pops_1" tvg-name="歌謡ポップスチャンネル" tvg-logo="" group-title="日本,CS,音乐",歌謡ポップスチャンネル
+#EXTINF:-1 tvg-id="Kayo_Pops_1" tvg-name="歌謡ポップスチャンネル" tvg-logo="" group-title="Live TV",歌謡ポップスチャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=4
 
-#EXTINF:-1 tvg-id="Movie_Plus_1" tvg-name="ムービープラス" tvg-logo="" group-title="日本,CS,电影",ムービープラス
+#EXTINF:-1 tvg-id="Movie_Plus_1" tvg-name="ムービープラス" tvg-logo="" group-title="Live TV",ムービープラス
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=4
 
-#EXTINF:-1 tvg-id="BBC_1" tvg-name="BBC World News" tvg-logo="" group-title="日本,CS,新闻",BBC World News
+#EXTINF:-1 tvg-id="BBC_1" tvg-name="BBC World News" tvg-logo="" group-title="Live TV",BBC World News
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=4
 
-#EXTINF:-1 tvg-id="CNN_1" tvg-name="CNN" tvg-logo="" group-title="日本,CS,新闻",CNN
+#EXTINF:-1 tvg-id="CNN_1" tvg-name="CNN" tvg-logo="" group-title="Live TV",CNN
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=4
 
-#EXTINF:-1 tvg-id="GAORA_1" tvg-name="GAORA" tvg-logo="" group-title="日本,CS,体育",GAORA
+#EXTINF:-1 tvg-id="GAORA_1" tvg-name="GAORA" tvg-logo="" group-title="Live TV",GAORA
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=4
 
-#EXTINF:-1 tvg-id="MTV_1" tvg-name="MTV" tvg-logo="" group-title="日本,CS,音乐",MTV
+#EXTINF:-1 tvg-id="MTV_1" tvg-name="MTV" tvg-logo="" group-title="Live TV",MTV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=4
 
-#EXTINF:-1 tvg-id="LaLa_TV_1" tvg-name="女性チャンネル♪LaLa" tvg-logo="" group-title="日本,CS,娱乐",女性チャンネル♪LaLa
+#EXTINF:-1 tvg-id="LaLa_TV_1" tvg-name="女性チャンネル♪LaLa" tvg-logo="" group-title="Live TV",女性チャンネル♪LaLa
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=4
 
-#EXTINF:-1 tvg-id="Family_Gekijo_1" tvg-name="ファミリー劇場" tvg-logo="" group-title="日本,CS,剧集",ファミリー劇場
+#EXTINF:-1 tvg-id="Family_Gekijo_1" tvg-name="ファミリー劇場" tvg-logo="" group-title="Live TV",ファミリー劇場
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=4
 
-#EXTINF:-1 tvg-id="MONDO_TV_1" tvg-name="MONDO TV" tvg-logo="" group-title="日本,CS,综合",MONDO TV
+#EXTINF:-1 tvg-id="MONDO_TV_1" tvg-name="MONDO TV" tvg-logo="" group-title="Live TV",MONDO TV
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=4
 
-#EXTINF:-1 tvg-id="Eisei_Gekijo_1" tvg-name="衛星劇場" tvg-logo="" group-title="日本,CS,剧集",衛星劇場
+#EXTINF:-1 tvg-id="Eisei_Gekijo_1" tvg-name="衛星劇場" tvg-logo="" group-title="Live TV",衛星劇場
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=4
 
-#EXTINF:-1 tvg-id="Disney_2" tvg-name="Disney Channel (CS)" tvg-logo="" group-title="日本,CS,儿童",Disney Channel (CS)
+#EXTINF:-1 tvg-id="Disney_2" tvg-name="Disney Channel (CS)" tvg-logo="" group-title="Live TV",Disney Channel (CS)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=4
 
-#EXTINF:-1 tvg-id="Animal_Planet_1" tvg-name="アニマルプラネット/animal" tvg-logo="" group-title="日本,CS,纪录",アニマルプラネット/animal
+#EXTINF:-1 tvg-id="Animal_Planet_1" tvg-name="アニマルプラネット/animal" tvg-logo="" group-title="Live TV",アニマルプラネット/animal
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=4
 
-#EXTINF:-1 tvg-id="Cartoon_Network_1" tvg-name="Cartoon Network" tvg-logo="" group-title="日本,CS,动画",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon_Network_1" tvg-name="Cartoon Network" tvg-logo="" group-title="Live TV",Cartoon Network
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=4
 
-#EXTINF:-1 tvg-id="Fuji_TV_NEXT_1" tvg-name="フジテレビNEXT" tvg-logo="" group-title="日本,CS,综合",フジテレビNEXT
+#EXTINF:-1 tvg-id="Fuji_TV_NEXT_1" tvg-name="フジテレビNEXT" tvg-logo="" group-title="Live TV",フジテレビNEXT
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=4
 
-#EXTINF:-1 tvg-id="Toei_Channel_1" tvg-name="東映チャンネル" tvg-logo="" group-title="日本,CS,电影",東映チャンネル
+#EXTINF:-1 tvg-id="Toei_Channel_1" tvg-name="東映チャンネル" tvg-logo="" group-title="Live TV",東映チャンネル
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=4
 
-#EXTINF:-1 tvg-id="TAKARAZUKA_1" tvg-name="TAKARAZUKA" tvg-logo="" group-title="日本,CS,娱乐",TAKARAZUKA
+#EXTINF:-1 tvg-id="TAKARAZUKA_1" tvg-name="TAKARAZUKA" tvg-logo="" group-title="Live TV",TAKARAZUKA
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=4
 
-#EXTINF:-1 tvg-id="Channel_Ginga_1" tvg-name="チャンネル銀河" tvg-logo="" group-title="日本,CS,综合",チャンネル銀河
+#EXTINF:-1 tvg-id="Channel_Ginga_1" tvg-name="チャンネル銀河" tvg-logo="" group-title="Live TV",チャンネル銀河
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=4
 
-#EXTINF:-1 tvg-id="NHK_BS_2" tvg-name="NHK BS (备用)" tvg-logo="" group-title="日本,BS",NHK BS (备用)
+#EXTINF:-1 tvg-id="NHK_BS_2" tvg-name="NHK BS (备用)" tvg-logo="" group-title="Live TV",NHK BS (备用)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=4
 
-#EXTINF:-1 tvg-id="WOWOW_2" tvg-name="WOWOW (备用)" tvg-logo="" group-title="日本,BS,付费",WOWOW (备用)
+#EXTINF:-1 tvg-id="WOWOW_2" tvg-name="WOWOW (备用)" tvg-logo="" group-title="Live TV",WOWOW (备用)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=4
 
-#EXTINF:-1 tvg-id="WOWOW_3" tvg-name="WOWOW (备用2)" tvg-logo="" group-title="日本,BS,付费",WOWOW (备用2)
+#EXTINF:-1 tvg-id="WOWOW_3" tvg-name="WOWOW (备用2)" tvg-logo="" group-title="Live TV",WOWOW (备用2)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=4
+
+########## 國際台 ##########
+
+#EXTINF:-1 group-title="Live TV",CNN
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129637
+
+#EXTINF:-1 group-title="Live TV",BBC News
+http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/445134
+
+#EXTINF:-1 group-title="Live TV",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 group-title="Live TV",GB News
+http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/445135
+
+#EXTINF:-1 group-title="Live TV",Sky News
+http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/4863
+
+#EXTINF:-1 group-title="Live TV",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+
+#EXTINF:-1 group-title="Live TV",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 group-title="Live TV",MS NOW
+http://cord-cutter.net:8080/81945791/05013455/21376
+
+#EXTINF:-1 group-title="Live TV",NBC
+https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
+
+#EXTINF:-1 group-title="Live TV",NBC News Now
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+
+#EXTINF:-1 group-title="Live TV",LiveNow
+https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
+
+#EXTINF:-1 group-title="Live TV",Euronews
+https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
+
+#EXTINF:-1 group-title="Live TV",Al Jazeera
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+
+#EXTINF:-1 group-title="Live TV",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 group-title="Live TV",NBC
+https://d4whmvwm0rdvi.cloudfront.net/10007/99992212/hls/master.m3u8?ads.xumo_channelId=99992212&ads.asnw=169843&ads.afid=137704898&ads.sfid=16373024&ads.csid=lgchannels_us_nbcnewsnow_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=1828&ads.xumo_contentName=NBCNewsNOW&ads.xumo_providerId=1828&ads.xumo_providerName=NBCNewsNOW&ads.channelId=99992212&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+
+#EXTINF:-1 group-title="Live TV",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/feeds/images/newsmax/Newsmax+Logo_200x800.png" group-title="Live TV",Newsmax
+https://amg00217-newsmax-amg00217c2-lg-ca-4271.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-lgca/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+
+#EXTINF:-1 group-title="Live TV",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+
+#EXTINF:-1 group-title="Live TV",TalkTV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+
+#EXTINF:-1 group-title="Live TV",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+
+#EXTINF:-1 group-title="Live TV",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+
+#EXTINF:-1 group-title="Live TV",Newsy
+https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index_8.m3u8
+
+#EXTINF:-1 group-title="Live TV",Redbull
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 group-title="Live TV",HollyWire
+https://bozztv.com/hwotta/playlist/HD3400/HD3400.m3u8
+
+#EXTINF:-1 group-title="Live TV",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",SportsGrid
+https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
+
+#EXTINF:-1 group-title="Live TV",Eurosport 4K
+http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
+
+#EXTINF:-1 group-title="Live TV",BEIN Sports Xtra
+https://bein-xtra-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+
+#EXTINF:-1 group-title="Live TV",Love Nature
+http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/5001/index.m3u8
+
+#EXTINF:-1 group-title="Live TV",Fashion Channel
+http://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Live TV",Action Hollywood
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",Mytime Movie
+https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",MTV
+http://143.244.60.30/MTV/index.m3u8
+
+#EXTINF:-1 group-title="Live TV",Pulse
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",Tastemade
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-int-aus-samsungau/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",Travel XP
+http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/14026/index.m3u8
+
+#EXTINF:-1 group-title="Live TV",PowerNation
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernationau-samsungau/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",PBS Kids
+https://pbs2-pull-secure.akamaized.net/pbs2/stream.m3u8
+
+#EXTINF:-1 group-title="Live TV",Disney Channel
+http://supersonictv.live:8080/live/006779/439866/21795.m3u8
+
+#EXTINF:-1 group-title="Live TV",Disney XD
+http://supersonictv.live:8080/live/006779/439866/21801.m3u8
+
+#EXTINF:-1 group-title="Live TV",Discovery Life
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129866
+
+#EXTINF:-1 group-title="Live TV",Discovery Family
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129865
+
+#EXTINF:-1 group-title="Live TV",Discovery Science
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129867
+
+#EXTINF:-1 group-title="Live TV",National Geographic Wild
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129927
+
+#EXTINF:-1 group-title="Live TV",National Geographic
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129928
+
+#EXTINF:-1 group-title="Live TV",Kartoon Channel
+https://lightning-fnf-samsungaus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",History Hit
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/ldsAAAAAA-timeline-samsungau/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ActionHits_ChannelLogo_Horizontal.png" group-title="Live TV",Sony One Action HITS
+https://89514e758f814907be6d14bbc0aa66b7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-800-UK-SONYONEACTIONHITS-LG_UK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ComedyHits_ChannelLogo_Horizontal.png" group-title="Live TV",Sony One Comedy HITS
+https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-802-UK-SONYONECOMEDYHITS-LG_UK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/logo-2-1/5d4f01af-4671-4025-ba99-f30ae44bad24-width400-height200.png" group-title="Live TV",Top Movies
+https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/50bddaa2-fd3b-4a05-9e22-ff7cadb78bf0-width400-height200.png" group-title="Live TV",Action Movies
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/logo-2-1/a8cd49c3-c34b-4392-8d3e-d8c943711997-width400-height200.png" group-title="Live TV",Comedy Movies
+https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/cfa51543-82a3-4416-b09a-398e126e19e9-width400-height200.png" group-title="Live TV",Drama Movies
+https://fee09fd665814f51b939b6d106cf5f66.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6093/master.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ThrillerTV_ChannelLogo_Horizontal.png" group-title="Live TV",Thriller TV
+https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_ComedyTV_ChannelLogo_Horizontal.png" group-title="Live TV",Comedy TV
+https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/EN_LG_FAST_Faves_ChannelLogo_Horizontal.png" group-title="Live TV",Sony One FAVES
+https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://d1biytugnv36sr.cloudfront.net/resize?width=400&height=200&url=https://static.frequency.com/studio/sony/channels/En_LG_FAST_DragonsDen_ChannelLogo_Horizontal.png" group-title="Live TV",Sony One Dragons' Den
+https://5dae1f2dfec54d8f9992b7d2ac0bc627.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-810-UK-SONYONEDRAGONSDEN-LG_UK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://img.platform.wurl.dev/channel/1231/lg/b1d29d/LG-Logo-PNG-100x100_v1.png" group-title="Live TV",Great British Menu
+https://7ed93f662af44c2e9bdf93b56464f6a8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-gb_GreatBritishMenu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://img.platform.wurl.dev/channel/1624/lg/0f1805/LG-Logo-PNG-100x100_v1.png" group-title="Live TV",Icon Film Channel
+https://09e3020901654256a51f2f2e9213765a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_IconFilmChannelClassics/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://img.platform.wurl.dev/channel/1068/lg/831dd8/LG-Logo-PNG-100x100_v1.png" group-title="Live TV",Popflix
+https://2e90a1efd576492a8eaf4364feedf8d5.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-gb_Popflix/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1film_epg_white_2_0.png" group-title="Live TV",LG 1 Film
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15465&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1spt_epg_white.png" group-title="Live TV",LG 1 Spotlight
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13959&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://lge-static.ottera.tv/prod/lge/linear_channel/logo/1600x400/lg1_800x200_white.png" group-title="Live TV",LG 1
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=10957&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_uk&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/0-2048/1865-LG-Logo-PNG-100x100_v1.png" group-title="Live TV",Real Madrid
+https://wurlcineverse.global.transmit.live/hls/678aa19b0d785cafbf15414a/v1/cinedigm_entertainment_corp_realmadrid_1/lg_ca/latest/main/hls/playlist.m3u8?wurl_channel=1865&wurl_name=RealMadrid&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://img.platform.wurl.dev/channel/535/lg/87a941/LG-Logo-PNG-100x100_v1.png" group-title="Live TV",GoUSA TV
+https://cc2b7c60df304389ba60c76790d1a82f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_GoUSATV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://img.platform.wurl.dev/channel/1517/lg/980216/LG-Logo-PNG-100x100_v2.png" group-title="Live TV",Autentic Travel
+https://2d1ef59f0ad34d14888d8abce1b99264.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/LG-au_AutenticTravel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://img.platform.wurl.dev/channel/1907/lg/e72dd3/LG-Logo-PNG-100x100_v1.png" group-title="Live TV",Inside Outside
+https://52405cd167dc41c68edcaa842b916ccd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-au_InsideOutside/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d3e54iig6qqew6.cloudfront.net/TCI_LG_LOGO.png" group-title="Live TV",Tennis Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.coppa=0&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1313/lg/f01ee9/LG-Logo-PNG-100x100_v1.png" group-title="Live TV",NFL Channel
+https://wurllg.global.transmit.live/hls/689629d4e139235851c80caf/v1/lg_nflchannel_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1313&wurl_name=NFLChannel&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99993044/600x200.png?type=white_cropped" group-title="Live TV",Universal Monsters
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993044/hls/master.m3u8?ads.xumo_channelId=99993044&ads.asnw=169843&ads.afid=380753606&ads.sfid=17850336&ads.csid=lgchannels_us_nbcuuniversalmonsters_ssai_cro&ads._fw_is_lat=[LMT]&ads._fw_us_privacy=[US_PRIVACY]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[APP_BUNDLE]&ads._fw_app_store_url=[APP_STOREURL]&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=[DEVICE_MAKE]&ads._fw_device_model=[DEVICE_MODEL]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=lgchannels&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.channelId=99993044&ads._fw_ifa_type=dpid&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1116/lg/c1228b/LG-Logo-PNG-100x100_v1.png" group-title="Live TV",ION
+https://wurlewscripps.global.transmit.live/hls/68962b3c9b574d4b1045a55a/v1/scripps_ion_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1116&wurl_name=ION&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]
+
+#EXTINF:-1 group-title="Live TV",ION Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1721/lg/a3ad6c/LG-Logo-PNG-100x100_v1.png" group-title="Live TV",News 12
+https://wurlnews12ny.global.transmit.live/hls/68c48577268ca4398b084116/v1/alticeusanewsinc_news12newyork_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1721&wurl_name=News12NewYork&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://lge-static.ottera.tv/prod/bbb/linear_channel/anamorphic-logo/465x200/billiard_.png" group-title="Live TV",Billiard TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=15270&avod=1&coppa=0&td=6&is_lat=[LMT]&dnt=[DNS]&us_privacy=[US_PRIVACY]&did=[DEVICE_ID]&ip=[IP]&ua=[UA]&ifa_type=[IFA_TYPE]&app_bundle=[APP_BUNDLE]&app_store_url=[APP_STOREURL]&app_name=[APP_NAME]&custom_targeting=html5&custom_4=lg_channels_us&player_height=720&player_width=1280&content_channel=lg_channels&content_dist_name=lg_channels&device_make=[DEVICE_MAKE]&device_model=[DEVICE_MODEL]&device_os=html5&consent=[GDPR_CONSENT]&gdpr=[GDPR]&gender=not_specified&yob=0&livestream=1&custom_param_0=[DEVICE_MODEL]&custom_param_1=tv&custom_param_2=[DEVICE_MAKE]&custom_param_3=[DEVICE_ID]&custom_param_4=lg_channels&custom_param_5=html5&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/160/lg/651255/LG-Logo-PNG-100x100_v1.png" group-title="Live TV",Stadium
+https://wurl120sports.global.transmit.live/hls/6863f426233e6604b8b45832/v1/stadium_gracenote/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=160&wurl_name=Stadium&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]
+
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1192/lg/73477a/LG-Logo-PNG-100x100_v1.png" group-title="Live TV",Overtime
+https://wurlrainbowmedia.global.transmit.live/hls/68c49d5a192b2a4e99da1da4/v1/amc_overtime_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1192&wurl_name=Overtime&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]
+
+#EXTINF:-1 group-title="Live TV",FIFA+
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
 ########## ATV ##########
 
@@ -7444,6 +7692,7 @@ https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playli
 https://w9n76.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 #EXTINF:-1 group-title="成人",国产 3403
 https://zo392.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
+
 
 
 
