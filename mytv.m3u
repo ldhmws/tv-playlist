@@ -1,119 +1,5 @@
 #EXTM3U
 
-########## China Mainland ##########
-
-#EXTINF:-1 group-title="Live TV",CCTV-1
-http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",CCTV-3
-http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",CCTV-4
-http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",CCTV-5
-http://yp.qqqtv.top/1/api.php?id=CCTV-5HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",CCTV-5+
-http://23.237.228.134/live5/CCTV5p.m3u8
-
-#EXTINF:-1 group-title="Live TV",CCTV-6
-http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",CCTV-7
-http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",CCTV-8
-http://yp.qqqtv.top/1/api.php?id=CCTV-8HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",CCTV-9
-http://yp.qqqtv.top/1/api.php?id=CCTV-9HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",CCTV-10
-http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",CCTV-11
-http://yp.qqqtv.top/1/api.php?id=CCTV-11HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",CCTV-12
-http://yp.qqqtv.top/1/api.php?id=CCTV-12HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",CCTV-13
-http://yp.qqqtv.top/1/api.php?id=CCTV-13HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",CCTV-14
-http://yp.qqqtv.top/1/api.php?id=CCTV-14HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",CCTV-15
-http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",CCTV-16
-http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-
-#EXTINF:-1 group-title="Live TV",CCTV-17
-http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",央視台球
-http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83&auth=666858
-
-#EXTINF:-1 group-title="Live TV",央視怀旧剧场
-http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&auth=666858
-
-#EXTINF:-1 group-title="Live TV",央視风云足球
-http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&auth=666858
-
-#EXTINF:-1 group-title="Live TV",央視风云音乐
-http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90&auth=666858
-
-#EXTINF:-1 group-title="Live TV",湖南卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",浙江卫视
-https://play-qukan.cztv.com/live/1758879019692345.m3u8
-
-#EXTINF:-1 group-title="Live TV",北京卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",湖北卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",重庆卫视
-http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",东方卫视
-http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",广西卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",海南卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",河南卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",江苏卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&auth=666858
-
-#EXTINF:-1 group-title="Live TV",辽宁卫视
-http://yp.qqqtv.top/1/api.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",山东卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",山西卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",深圳卫视
-http://yp.qqqtv.top/1/api.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD&auth=666858
-
-#EXTINF:-1 group-title="Live TV",广西新闻
-http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E6%96%B0%E9%97%BB&auth=666858
-
-#EXTINF:-1 group-title="Live TV",广西国际
-http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E5%9B%BD%E9%99%85&auth=666858
-
 ########## Viu ##########
 
 #EXTINF:-1 group-title="Live TV",ViuTV
@@ -268,6 +154,121 @@ http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1 group-title="Live TV",爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
 
+
+########## China Mainland ##########
+
+#EXTINF:-1 group-title="Live TV",CCTV-1
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",CCTV-3
+http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",CCTV-4
+http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",CCTV-5
+http://yp.qqqtv.top/1/api.php?id=CCTV-5HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",CCTV-5+
+http://23.237.228.134/live5/CCTV5p.m3u8
+
+#EXTINF:-1 group-title="Live TV",CCTV-6
+http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",CCTV-7
+http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",CCTV-8
+http://yp.qqqtv.top/1/api.php?id=CCTV-8HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",CCTV-9
+http://yp.qqqtv.top/1/api.php?id=CCTV-9HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",CCTV-10
+http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",CCTV-11
+http://yp.qqqtv.top/1/api.php?id=CCTV-11HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",CCTV-12
+http://yp.qqqtv.top/1/api.php?id=CCTV-12HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",CCTV-13
+http://yp.qqqtv.top/1/api.php?id=CCTV-13HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",CCTV-14
+http://yp.qqqtv.top/1/api.php?id=CCTV-14HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",CCTV-15
+http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",CCTV-16
+http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+
+#EXTINF:-1 group-title="Live TV",CCTV-17
+http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",央視台球
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E5%A4%AE%E8%A7%86%E5%8F%B0%E7%90%83&auth=666858
+
+#EXTINF:-1 group-title="Live TV",央視怀旧剧场
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&auth=666858
+
+#EXTINF:-1 group-title="Live TV",央視风云足球
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E8%B6%B3%E7%90%83&auth=666858
+
+#EXTINF:-1 group-title="Live TV",央視风云音乐
+http://yp.qqqtv.top/1/api.php?id=CCTV-%E9%A3%8E%E4%BA%91%E9%9F%B3%E4%B9%90&auth=666858
+
+#EXTINF:-1 group-title="Live TV",湖南卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",浙江卫视
+https://play-qukan.cztv.com/live/1758879019692345.m3u8
+
+#EXTINF:-1 group-title="Live TV",北京卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",湖北卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",重庆卫视
+http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",东方卫视
+http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",广西卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",海南卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",河南卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",江苏卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&auth=666858
+
+#EXTINF:-1 group-title="Live TV",辽宁卫视
+http://yp.qqqtv.top/1/api.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",山东卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",山西卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",深圳卫视
+http://yp.qqqtv.top/1/api.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",广西新闻
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E6%96%B0%E9%97%BB&auth=666858
+
+#EXTINF:-1 group-title="Live TV",广西国际
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E5%9B%BD%E9%99%85&auth=666858
+
 ########## 体育 ##########
 
 #EXTINF:-1 group-title="Live TV",ESPN
@@ -278,6 +279,206 @@ https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 #EXTINF:-1 group-title="Live TV",NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+
+########## 日本 ##########
+
+#EXTINF:-1 tvg-id="NHK_G_1" tvg-name="NHK G" tvg-logo="" group-title="日本,综合",NHK G
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=4
+
+#EXTINF:-1 tvg-id="NHK_E_1" tvg-name="NHK E" tvg-logo="" group-title="日本,教育",NHK E
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=4
+
+#EXTINF:-1 tvg-id="Nippon_TV_1" tvg-name="日本テレビ" tvg-logo="" group-title="日本,综合",日本テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=4
+
+#EXTINF:-1 tvg-id="TBS_1" tvg-name="TBS" tvg-logo="" group-title="日本,综合",TBS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=4
+
+#EXTINF:-1 tvg-id="Fuji_TV_1" tvg-name="フジテレビ" tvg-logo="" group-title="日本,综合",フジテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=4
+
+#EXTINF:-1 tvg-id="TV_Asahi_1" tvg-name="テレビ朝日" tvg-logo="" group-title="日本,综合",テレビ朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=4
+
+#EXTINF:-1 tvg-id="TV_Tokyo_1" tvg-name="テレビ東京" tvg-logo="" group-title="日本,综合",テレビ東京
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=4
+
+#EXTINF:-1 tvg-id="Tokyo_MX_1" tvg-name="TOKYO MX" tvg-logo="" group-title="日本,综合",TOKYO MX
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=4
+
+#EXTINF:-1 tvg-id="MBS_1" tvg-name="MBS毎日放送" tvg-logo="" group-title="日本,关西",MBS毎日放送
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=4
+
+#EXTINF:-1 tvg-id="ABC_1" tvg-name="ABCテレビ" tvg-logo="" group-title="日本,关西",ABCテレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=4
+
+#EXTINF:-1 tvg-id="Kansai_TV_1" tvg-name="関西テレビ" tvg-logo="" group-title="日本,关西",関西テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=4
+
+#EXTINF:-1 tvg-id="YTV_1" tvg-name="読売テレビ" tvg-logo="" group-title="日本,关西",読売テレビ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=4
+
+#EXTINF:-1 tvg-id="TV_Osaka_1" tvg-name="テレビ大阪" tvg-logo="" group-title="日本,关西",テレビ大阪
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=4
+
+#EXTINF:-1 tvg-id="NHK_KANSAI_1" tvg-name="NHK关西" tvg-logo="" group-title="日本,关西",NHK关西
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=4
+
+#EXTINF:-1 tvg-id="SUN_TV_1" tvg-name="サンテレビSUN" tvg-logo="" group-title="日本,关西",サンテレビSUN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=4
+
+#EXTINF:-1 tvg-id="NHK_BS_1" tvg-name="NHK BS" tvg-logo="" group-title="日本,BS",NHK BS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=4
+
+#EXTINF:-1 tvg-id="BS_Nippon_1" tvg-name="BS日テレ" tvg-logo="" group-title="日本,BS",BS日テレ
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=4
+
+#EXTINF:-1 tvg-id="BS_Asahi_1" tvg-name="BS朝日" tvg-logo="" group-title="日本,BS",BS朝日
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=4
+
+#EXTINF:-1 tvg-id="BS_4" tvg-name="BS 4" tvg-logo="" group-title="日本,BS",BS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=4
+
+#EXTINF:-1 tvg-id="BS_5" tvg-name="BS 5" tvg-logo="" group-title="日本,BS",BS 5
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=4
+
+#EXTINF:-1 tvg-id="BS_6" tvg-name="BS 6" tvg-logo="" group-title="日本,BS",BS 6
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=4
+
+#EXTINF:-1 tvg-id="WOWOW_1" tvg-name="WOWOW" tvg-logo="" group-title="日本,BS,付费",WOWOW
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=4
+
+#EXTINF:-1 tvg-id="Star_1" tvg-name="Star Channel" tvg-logo="" group-title="日本,BS,电影",Star Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=4
+
+#EXTINF:-1 tvg-id="GREEN_1" tvg-name="GREEN Channel" tvg-logo="" group-title="日本,BS,体育",GREEN Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=4
+
+#EXTINF:-1 tvg-id="BS_15" tvg-name="BS 15" tvg-logo="" group-title="日本,BS",BS 15
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=4
+
+#EXTINF:-1 tvg-id="J_SPORTS_1" tvg-name="J SPORTS 1" tvg-logo="" group-title="日本,BS,体育",J SPORTS 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=4
+
+#EXTINF:-1 tvg-id="J_SPORTS_2" tvg-name="J SPORTS 2" tvg-logo="" group-title="日本,BS,体育",J SPORTS 2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=4
+
+#EXTINF:-1 tvg-id="J_SPORTS_3" tvg-name="J SPORTS 3" tvg-logo="" group-title="日本,BS,体育",J SPORTS 3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=4
+
+#EXTINF:-1 tvg-id="J_SPORTS_4" tvg-name="J SPORTS 4" tvg-logo="" group-title="日本,BS,体育",J SPORTS 4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=4
+
+#EXTINF:-1 tvg-id="Nihon_Eiga_1" tvg-name="日本映画専門チャンネル" tvg-logo="" group-title="日本,BS,电影",日本映画専門チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=4
+
+#EXTINF:-1 tvg-id="Disney_1" tvg-name="Disney Channel" tvg-logo="" group-title="日本,BS,儿童",Disney Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=4
+
+#EXTINF:-1 tvg-id="Fishing_Vision_1" tvg-name="BS釣りビジョン" tvg-logo="" group-title="日本,BS,娱乐",BS釣りビジョン
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=4
+
+#EXTINF:-1 tvg-id="Space_Shower_1" tvg-name="スペースシャワーTV/SPACE" tvg-logo="" group-title="日本,BS,音乐",スペースシャワーTV/SPACE
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=4
+
+#EXTINF:-1 tvg-id="BS_31" tvg-name="BS 31" tvg-logo="" group-title="日本,BS",BS 31
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=4
+
+#EXTINF:-1 tvg-id="Sky_A_1" tvg-name="スカイ・A" tvg-logo="" group-title="日本,CS,体育",スカイ・A
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=4
+
+#EXTINF:-1 tvg-id="Nittele_G_Plus_1" tvg-name="日テレジータス" tvg-logo="" group-title="日本,CS,体育",日テレジータス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=4
+
+#EXTINF:-1 tvg-id="Golf_Network_1" tvg-name="ゴルフネットワーク/GOLF" tvg-logo="" group-title="日本,CS,体育",ゴルフネットワーク/GOLF
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=4
+
+#EXTINF:-1 tvg-id="Jidaigeki_1" tvg-name="時代劇専門チャンネル" tvg-logo="" group-title="日本,CS,剧集",時代劇専門チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=4
+
+#EXTINF:-1 tvg-id="Home_Drama_1" tvg-name="ホームドラマチャンネル" tvg-logo="" group-title="日本,CS,剧集",ホームドラマチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=4
+
+#EXTINF:-1 tvg-id="Music_Japan_1" tvg-name="ミュージック・ジャパンTV/MUSIC" tvg-logo="" group-title="日本,CS,音乐",ミュージック・ジャパンTV/MUSIC
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
+
+#EXTINF:-1 tvg-id="KIDS_1" tvg-name="KIDS" tvg-logo="" group-title="日本,CS,儿童",KIDS
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=4
+
+#EXTINF:-1 tvg-id="Discovery_1" tvg-name="Discovery" tvg-logo="" group-title="日本,CS,纪录",Discovery
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=4
+
+#EXTINF:-1 tvg-id="HISTORY_1" tvg-name="HISTORY" tvg-logo="" group-title="日本,CS,纪录",HISTORY
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=4
+
+#EXTINF:-1 tvg-id="National_Geographic_1" tvg-name="ナショナル ジオグラフィック" tvg-logo="" group-title="日本,CS,纪录",ナショナル ジオグラフィック
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=4
+
+#EXTINF:-1 tvg-id="TBS_CS_1" tvg-name="TBS チャンネル" tvg-logo="" group-title="日本,CS,综合",TBS チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=4
+
+#EXTINF:-1 tvg-id="Travel_Channel_1" tvg-name="旅チャンネル" tvg-logo="" group-title="日本,CS,旅游",旅チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=4
+
+#EXTINF:-1 tvg-id="Kayo_Pops_1" tvg-name="歌謡ポップスチャンネル" tvg-logo="" group-title="日本,CS,音乐",歌謡ポップスチャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=4
+
+#EXTINF:-1 tvg-id="Movie_Plus_1" tvg-name="ムービープラス" tvg-logo="" group-title="日本,CS,电影",ムービープラス
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=4
+
+#EXTINF:-1 tvg-id="BBC_1" tvg-name="BBC World News" tvg-logo="" group-title="日本,CS,新闻",BBC World News
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15&isp=4
+
+#EXTINF:-1 tvg-id="CNN_1" tvg-name="CNN" tvg-logo="" group-title="日本,CS,新闻",CNN
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=4
+
+#EXTINF:-1 tvg-id="GAORA_1" tvg-name="GAORA" tvg-logo="" group-title="日本,CS,体育",GAORA
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=4
+
+#EXTINF:-1 tvg-id="MTV_1" tvg-name="MTV" tvg-logo="" group-title="日本,CS,音乐",MTV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=4
+
+#EXTINF:-1 tvg-id="LaLa_TV_1" tvg-name="女性チャンネル♪LaLa" tvg-logo="" group-title="日本,CS,娱乐",女性チャンネル♪LaLa
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=4
+
+#EXTINF:-1 tvg-id="Family_Gekijo_1" tvg-name="ファミリー劇場" tvg-logo="" group-title="日本,CS,剧集",ファミリー劇場
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=4
+
+#EXTINF:-1 tvg-id="MONDO_TV_1" tvg-name="MONDO TV" tvg-logo="" group-title="日本,CS,综合",MONDO TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=4
+
+#EXTINF:-1 tvg-id="Eisei_Gekijo_1" tvg-name="衛星劇場" tvg-logo="" group-title="日本,CS,剧集",衛星劇場
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=4
+
+#EXTINF:-1 tvg-id="Disney_2" tvg-name="Disney Channel (CS)" tvg-logo="" group-title="日本,CS,儿童",Disney Channel (CS)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=4
+
+#EXTINF:-1 tvg-id="Animal_Planet_1" tvg-name="アニマルプラネット/animal" tvg-logo="" group-title="日本,CS,纪录",アニマルプラネット/animal
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=4
+
+#EXTINF:-1 tvg-id="Cartoon_Network_1" tvg-name="Cartoon Network" tvg-logo="" group-title="日本,CS,动画",Cartoon Network
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=4
+
+#EXTINF:-1 tvg-id="Fuji_TV_NEXT_1" tvg-name="フジテレビNEXT" tvg-logo="" group-title="日本,CS,综合",フジテレビNEXT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=4
+
+#EXTINF:-1 tvg-id="Toei_Channel_1" tvg-name="東映チャンネル" tvg-logo="" group-title="日本,CS,电影",東映チャンネル
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=4
+
+#EXTINF:-1 tvg-id="TAKARAZUKA_1" tvg-name="TAKARAZUKA" tvg-logo="" group-title="日本,CS,娱乐",TAKARAZUKA
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=4
+
+#EXTINF:-1 tvg-id="Channel_Ginga_1" tvg-name="チャンネル銀河" tvg-logo="" group-title="日本,CS,综合",チャンネル銀河
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=4
+
+#EXTINF:-1 tvg-id="NHK_BS_2" tvg-name="NHK BS (备用)" tvg-logo="" group-title="日本,BS",NHK BS (备用)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=4
+
+#EXTINF:-1 tvg-id="WOWOW_2" tvg-name="WOWOW (备用)" tvg-logo="" group-title="日本,BS,付费",WOWOW (备用)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=4
+
+#EXTINF:-1 tvg-id="WOWOW_3" tvg-name="WOWOW (备用2)" tvg-logo="" group-title="日本,BS,付费",WOWOW (备用2)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=4
 
 ########## ATV ##########
 
@@ -7243,6 +7444,7 @@ https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playli
 https://w9n76.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 #EXTINF:-1 group-title="成人",国产 3403
 https://zo392.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
+
 
 
 
