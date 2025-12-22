@@ -22,6 +22,7 @@ https://6.cdn.loc.cc/163189.php?id=tvb1
 #EXTINF:-1 group-title="Live TV",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2
 https://cdn6.101.qzz.io/163189/tvbp
+http://r.jdshipin.com/ndGgS
 
 #EXTINF:-1 group-title="Live TV",TVB 翡翠1台
 http://php.jdshipin.com:8880/smt.php?id=Tvbjade
@@ -31,6 +32,7 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
 #EXTINF:-1 group-title="Live TV",TVB 無線新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+http://r.jdshipin.com/CkuBd
 
 #EXTINF:-1 group-title="Live TV",TVB 娛樂新聞台
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
@@ -71,6 +73,7 @@ http://hls.168.us.kg/u/333/master.m3u8
 
 #EXTINF:-1 group-title="Live TV",Now 新聞台
 http://hls.168.us.kg/u/332/master.m3u8
+https://cdn.163189.xyz/163189/now
 
 #EXTINF:-1 group-title="Live TV",Now 直播台
 http://hls.168.us.kg/u/331/master.m3u8
@@ -110,6 +113,15 @@ http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 #EXTINF:-1 group-title="Live TV",澳門Macau
 http://php.jdshipin.com/PLTV/iptv.php?id=as
 
+#EXTINF:-1 group-title="Live TV",澳视资讯
+https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",澳视体育
+https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",澳视综艺
+https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+
 ########## 影視 ##########
 
 #EXTINF:-1 group-title="Live TV",天映频道
@@ -148,6 +160,17 @@ http://php.jdshipin.com/smt.php?id=Huahee
 
 #EXTINF:-1 group-title="Live TV",astro全家
 http://php.jdshipin.com/smt.php?id=Quanjia
+
+########## 新加坡 ##########
+
+#EXTINF:-1 group-title="Live TV",Ch 5 (HD)
+http://cdn6.163189.xyz/163189/ch5
+
+#EXTINF:-1 group-title="Live TV",Ch 8 (HD)
+http://cdn6.163189.xyz/163189/ch8
+
+#EXTINF:-1 group-title="Live TV",Ch U (HD)
+http://cdn6.163189.xyz/163189/chu
 
 ########## 網絡 ##########
 
@@ -239,9 +262,6 @@ http://yp.qqqtv.top/1/api.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86HD&auth=666
 #EXTINF:-1 group-title="Live TV",东方卫视
 http://yp.qqqtv.top/1/api.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",广西卫视
-http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
-
 #EXTINF:-1 group-title="Live TV",海南卫视
 http://yp.qqqtv.top/1/api.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86HD&auth=666858
 
@@ -260,25 +280,23 @@ http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86HD&auth=666
 #EXTINF:-1 group-title="Live TV",山西卫视
 http://yp.qqqtv.top/1/api.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
 
+#EXTINF:-1 group-title="Live TV",广东体育
+http://r.jdshipin.com/LiYdg
+
+#EXTINF:-1 group-title="Live TV",广东珠江
+http://r.jdshipin.com/sE5vO
+
 #EXTINF:-1 group-title="Live TV",深圳卫视
 http://yp.qqqtv.top/1/api.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86HD&auth=666858
+
+#EXTINF:-1 group-title="Live TV",广西卫视
+http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86HD&auth=666858
 
 #EXTINF:-1 group-title="Live TV",广西新闻
 http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E6%96%B0%E9%97%BB&auth=666858
 
 #EXTINF:-1 group-title="Live TV",广西国际
 http://yp.qqqtv.top/1/api.php?id=%E5%B9%BF%E8%A5%BF%E5%9B%BD%E9%99%85&auth=666858
-
-########## 体育 ##########
-
-#EXTINF:-1 group-title="Live TV",ESPN
-http://41.205.93.154/ESPN/index.m3u8
-
-#EXTINF:-1 group-title="Live TV",ESPN 2
-https://fl2.moveonjoy.com/ESPN_2/index.m3u8
-
-#EXTINF:-1 group-title="Live TV",NBA TV
-https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 
 ########## 日本 ##########
 
@@ -728,7 +746,30 @@ https://wurlrainbowmedia.global.transmit.live/hls/68c49d5a192b2a4e99da1da4/v1/am
 #EXTINF:-1 group-title="Live TV",FIFA+
 https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 
-########## ATV ##########
+########## 体育 ##########
+
+#EXTINF:-1 group-title="Live TV",ESPN
+http://41.205.93.154/ESPN/index.m3u8
+
+#EXTINF:-1 group-title="Live TV",ESPN 2
+https://fl2.moveonjoy.com/ESPN_2/index.m3u8
+
+#EXTINF:-1 group-title="Live TV",NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 group-title="Live TV",TNT Sports 1 HD
+https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",TNT Sports 2 HD
+https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",TNT Sports 3 HD
+https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",TNT Sports 4 HD
+https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
+
+########################################################################################################## ATV ##########################################################################################################
 
 #EXTINF:-1 group-title="成人",Babes TV
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
@@ -7692,6 +7733,7 @@ https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playli
 https://w9n76.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 #EXTINF:-1 group-title="成人",国产 3403
 https://zo392.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
+
 
 
 
