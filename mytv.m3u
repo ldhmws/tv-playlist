@@ -714,6 +714,9 @@ https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="成人" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise
 https://nl.utako.moe/v_paradise/index.m3u8
 
+#EXTINF:-1 group-title="成人",PLAYBOY TV
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+
 #EXTINF:-1 group-title="成人",Babes TV
 http://88.212.7.11/live/test_basbes_hd_hevc/playlist.m3u8
 
@@ -7676,6 +7679,7 @@ https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playli
 https://w9n76.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 #EXTINF:-1 group-title="成人",国产 3403
 https://zo392.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
+
 
 
 
