@@ -7,6 +7,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 
 #EXTINF:-1 group-title="Live TV",ViuTV 6
+http://hls.168.us.kg/u/96/master.m3u8
 https://stream1.freetv.fun/ce4208cdaf6dcc01956efaddc24e96306eb0fd469310323ca725bee397ffb325.m3u8
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 
@@ -7679,6 +7680,7 @@ https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playli
 https://w9n76.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 #EXTINF:-1 group-title="成人",国产 3403
 https://zo392.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
+
 
 
 
