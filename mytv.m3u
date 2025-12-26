@@ -16,7 +16,7 @@ http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 #EXTINF:-1 group-title="Live TV",TVB 星河台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
-#EXTINF:-1 group-title="Live TV",TVB1
+#EXTINF:-1 group-title="Live TV",TVB 1
 https://6.cdn.loc.cc/163189.php?id=tvb1
 
 #EXTINF:-1 group-title="Live TV",TVB Plus
@@ -140,9 +140,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 group-title="Live TV",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 
-#EXTINF:-1 group-title="Live TV",TVB武侠
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-
 #EXTINF:-1 group-title="Live TV",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
@@ -177,62 +174,61 @@ http://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 group-title="Live TV",爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
 
-
 ########## 中國內地 ##########
 
-#EXTINF:-1 group-title="Live TV",CCTV-1
+#EXTINF:-1 group-title="Live TV",CCTV 1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-2
+#EXTINF:-1 group-title="Live TV",CCTV 2
 http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="Live TV",CCTV-3
+#EXTINF:-1 group-title="Live TV",CCTV 3
 http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-4
+#EXTINF:-1 group-title="Live TV",CCTV 4
 http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-5
+#EXTINF:-1 group-title="Live TV",CCTV 5
 http://yp.qqqtv.top/1/api.php?id=CCTV-5HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-5+
+#EXTINF:-1 group-title="Live TV",CCTV 5+
 http://23.237.228.134/live5/CCTV5p.m3u8
 
-#EXTINF:-1 group-title="Live TV",CCTV-6
+#EXTINF:-1 group-title="Live TV",CCTV 6
 http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-7
+#EXTINF:-1 group-title="Live TV",CCTV 7
 http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-8
+#EXTINF:-1 group-title="Live TV",CCTV 8
 http://yp.qqqtv.top/1/api.php?id=CCTV-8HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-9
+#EXTINF:-1 group-title="Live TV",CCTV 9
 http://yp.qqqtv.top/1/api.php?id=CCTV-9HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-10
+#EXTINF:-1 group-title="Live TV",CCTV 10
 http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-11
+#EXTINF:-1 group-title="Live TV",CCTV 11
 http://yp.qqqtv.top/1/api.php?id=CCTV-11HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-12
+#EXTINF:-1 group-title="Live TV",CCTV 12
 http://yp.qqqtv.top/1/api.php?id=CCTV-12HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-13
+#EXTINF:-1 group-title="Live TV",CCTV 13
 http://yp.qqqtv.top/1/api.php?id=CCTV-13HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-14
+#EXTINF:-1 group-title="Live TV",CCTV 14
 http://yp.qqqtv.top/1/api.php?id=CCTV-14HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-15
+#EXTINF:-1 group-title="Live TV",CCTV 15
 http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-16
+#EXTINF:-1 group-title="Live TV",CCTV 16
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="Live TV",CCTV-17
+#EXTINF:-1 group-title="Live TV",CCTV 17
 http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
 
 #EXTINF:-1 group-title="Live TV",央視台球
@@ -7680,6 +7676,7 @@ https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playli
 https://w9n76.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 #EXTINF:-1 group-title="成人",国产 3403
 https://zo392.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
+
 
 
 
