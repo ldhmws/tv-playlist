@@ -38,8 +38,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 http://r.jdshipin.com/CkuBd
 
 #EXTINF:-1 group-title="Live TV",TVB 娛樂新聞台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+http://iptv.4666888.xyz/iptv2A.php?id=36
 
 #EXTINF:-1 group-title="Live TV",TVB J1 翡翠綜合台
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -691,24 +690,30 @@ http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 group-title="Live TV",ESPN 2
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 group-title="Live TV",NBA TV
-https://fl1.moveonjoy.com/NBA_TV/index.m3u8
-
-#EXTINF:-1 group-title="Live TV",WWE
-http://iptv.4666888.xyz/iptv2A.php?id=5
-
 #EXTINF:-1 group-title="Live TV",TSN 1
 http://fl1.moveonjoy.com/TSN_1/mpegts
+
+#EXTINF:-1 group-title="Live TV",TSN 2
+http://fl1.moveonjoy.com/TSN_2/mpegts
+
+#EXTINF:-1 group-title="Live TV",TSN 3
+http://fl1.moveonjoy.com/TSN_3/mpegts
+
 #EXTINF:-1 group-title="Live TV",TSN 4
 http://fl1.moveonjoy.com/TSN_4/mpegts
+
 #EXTINF:-1 group-title="Live TV",TSN 5
 http://fl1.moveonjoy.com/TSN_5/index.m3u8
+
 #EXTINF:-1 group-title="Live TV",Sky Sports+
 https://a1xs.vip/2000012
+
 #EXTINF:-1 group-title="Live TV",Sky Sports Tennis
 https://a1xs.vip/2000013
+
 #EXTINF:-1 group-title="Live TV",Sky Sports NFL
 https://a1xs.vip/2000011
+
 #EXTINF:-1 group-title="Live TV",Sky Sports Mix
 https://a1xs.vip/2000008
 
@@ -723,6 +728,18 @@ https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
 
 #EXTINF:-1 group-title="Live TV",TNT Sports 4 HD
 https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
+
+#EXTINF:-1 group-title="Live TV",NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+
+#EXTINF:-1 group-title="Live TV",WWE
+http://iptv.4666888.xyz/iptv2A.php?id=5
+
+#EXTINF:-1 group-title="Live TV",Bellator MMA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803&checkedby:iptvcat.com
+
+#EXTINF:-1 group-title="Live TV",PFL
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a574605f140007e233c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e7c1ca7-ed35-4230-ab56-f8dbc86b0af4&serverSideAds=false&checkedby:iptvcat.com
 
 ########################################################################################################## ATV ##########################################################################################################
 
@@ -7697,6 +7714,7 @@ https://e2fa6.cdnedge.live/file/avple-images/hls/6157416d9dda0e2db22a7f11/playli
 https://w9n76.cdnedge.live/file/avple-images/hls/6173094d16713849c8fc4704/playlist.m3u8
 #EXTINF:-1 group-title="成人",国产 3403
 https://zo392.cdnedge.live/file/avple-images/hls/61584c9d4617d9667f1fa688/playlist.m3u8
+
 
 
 
