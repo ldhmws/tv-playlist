@@ -2,20 +2,24 @@
 
 ########## Viu ##########
 
-#EXTINF:-1 group-title="Live TV",ViuTV
+#EXTINF:-1 group-title="Live TV",Viu TV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 
-#EXTINF:-1 group-title="Live TV",ViuTV 6
+#EXTINF:-1 group-title="Live TV",Viu TV 6
+http://hls.168.us.kg/u/96/master.m3u8
 https://stream1.freetv.fun/ce4208cdaf6dcc01956efaddc24e96306eb0fd469310323ca725bee397ffb325.m3u8
 http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+
+#EXTINF:-1 group-title="Live TV",MyTV Super
+http://iptv.4666888.xyz/iptv2A.php?id=32
 
 ########## TVB ##########
 
 #EXTINF:-1 group-title="Live TV",TVB 星河台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 
-#EXTINF:-1 group-title="Live TV",TVB1
+#EXTINF:-1 group-title="Live TV",TVB 1
 https://6.cdn.loc.cc/163189.php?id=tvb1
 
 #EXTINF:-1 group-title="Live TV",TVB Plus
@@ -34,8 +38,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 http://r.jdshipin.com/CkuBd
 
 #EXTINF:-1 group-title="Live TV",TVB 娛樂新聞台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw
+http://iptv.4666888.xyz/iptv2A.php?id=36
 
 #EXTINF:-1 group-title="Live TV",TVB J1 翡翠綜合台
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
@@ -139,9 +142,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 group-title="Live TV",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 
-#EXTINF:-1 group-title="Live TV",TVB武侠
-http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-
 #EXTINF:-1 group-title="Live TV",亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 
@@ -176,62 +176,61 @@ http://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 group-title="Live TV",爱奇艺
 http://php.jdshipin.com/smt.php?id=Qiyi
 
-
 ########## 中國內地 ##########
 
-#EXTINF:-1 group-title="Live TV",CCTV-1
+#EXTINF:-1 group-title="Live TV",CCTV 1
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 http://yp.qqqtv.top/1/api.php?id=CCTV-1HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-2
+#EXTINF:-1 group-title="Live TV",CCTV 2
 http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="Live TV",CCTV-3
+#EXTINF:-1 group-title="Live TV",CCTV 3
 http://yp.qqqtv.top/1/api.php?id=CCTV-3HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-4
+#EXTINF:-1 group-title="Live TV",CCTV 4
 http://yp.qqqtv.top/1/api.php?id=CCTV-4HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-5
+#EXTINF:-1 group-title="Live TV",CCTV 5
 http://yp.qqqtv.top/1/api.php?id=CCTV-5HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-5+
+#EXTINF:-1 group-title="Live TV",CCTV 5+
 http://23.237.228.134/live5/CCTV5p.m3u8
 
-#EXTINF:-1 group-title="Live TV",CCTV-6
+#EXTINF:-1 group-title="Live TV",CCTV 6
 http://yp.qqqtv.top/1/api.php?id=CCTV-6HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-7
+#EXTINF:-1 group-title="Live TV",CCTV 7
 http://yp.qqqtv.top/1/api.php?id=CCTV-7HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-8
+#EXTINF:-1 group-title="Live TV",CCTV 8
 http://yp.qqqtv.top/1/api.php?id=CCTV-8HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-9
+#EXTINF:-1 group-title="Live TV",CCTV 9
 http://yp.qqqtv.top/1/api.php?id=CCTV-9HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-10
+#EXTINF:-1 group-title="Live TV",CCTV 10
 http://yp.qqqtv.top/1/api.php?id=CCTV-10HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-11
+#EXTINF:-1 group-title="Live TV",CCTV 11
 http://yp.qqqtv.top/1/api.php?id=CCTV-11HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-12
+#EXTINF:-1 group-title="Live TV",CCTV 12
 http://yp.qqqtv.top/1/api.php?id=CCTV-12HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-13
+#EXTINF:-1 group-title="Live TV",CCTV 13
 http://yp.qqqtv.top/1/api.php?id=CCTV-13HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-14
+#EXTINF:-1 group-title="Live TV",CCTV 14
 http://yp.qqqtv.top/1/api.php?id=CCTV-14HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-15
+#EXTINF:-1 group-title="Live TV",CCTV 15
 http://yp.qqqtv.top/1/api.php?id=CCTV-15HD&auth=666858
 
-#EXTINF:-1 group-title="Live TV",CCTV-16
+#EXTINF:-1 group-title="Live TV",CCTV 16
 http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
 
-#EXTINF:-1 group-title="Live TV",CCTV-17
+#EXTINF:-1 group-title="Live TV",CCTV 17
 http://yp.qqqtv.top/1/api.php?id=CCTV-17HD&auth=666858
 
 #EXTINF:-1 group-title="Live TV",央視台球
@@ -691,8 +690,32 @@ http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 group-title="Live TV",ESPN 2
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 group-title="Live TV",NBA TV
-https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+#EXTINF:-1 group-title="Live TV",TSN 1
+http://fl1.moveonjoy.com/TSN_1/mpegts
+
+#EXTINF:-1 group-title="Live TV",TSN 2
+http://fl1.moveonjoy.com/TSN_2/mpegts
+
+#EXTINF:-1 group-title="Live TV",TSN 3
+http://fl1.moveonjoy.com/TSN_3/mpegts
+
+#EXTINF:-1 group-title="Live TV",TSN 4
+http://fl1.moveonjoy.com/TSN_4/mpegts
+
+#EXTINF:-1 group-title="Live TV",TSN 5
+http://fl1.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 group-title="Live TV",Sky Sports+
+https://a1xs.vip/2000012
+
+#EXTINF:-1 group-title="Live TV",Sky Sports Tennis
+https://a1xs.vip/2000013
+
+#EXTINF:-1 group-title="Live TV",Sky Sports NFL
+https://a1xs.vip/2000011
+
+#EXTINF:-1 group-title="Live TV",Sky Sports Mix
+https://a1xs.vip/2000008
 
 #EXTINF:-1 group-title="Live TV",TNT Sports 1 HD
 https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
@@ -706,6 +729,14 @@ https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
 #EXTINF:-1 group-title="Live TV",TNT Sports 4 HD
 https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
 
+#EXTINF:-1 group-title="Live TV",NBA TV
+https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 
+#EXTINF:-1 group-title="Live TV",WWE
+http://iptv.4666888.xyz/iptv2A.php?id=5
 
+#EXTINF:-1 group-title="Live TV",Bellator MMA
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a6-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0e97a69e-3355-4217-b6fb-8952f0ad1803&checkedby:iptvcat.com
 
+#EXTINF:-1 group-title="Live TV",PFL
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6334a574605f140007e233c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f27-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e7c1ca7-ed35-4230-ab56-f8dbc86b0af4&serverSideAds=false&checkedby:iptvcat.com
